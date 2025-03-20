@@ -37,7 +37,7 @@
     "/dist"
   ],
   "dependencies": {
-    "@ethersproject/bignumber": "^5.7.0",
+    "@ethersproject/bignumber": "^5.8.0",
     "@noble/hashes": "^1.2.0"
   },
   "devDependencies": {
